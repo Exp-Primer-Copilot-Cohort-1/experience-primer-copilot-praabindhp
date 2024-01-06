@@ -1,4 +1,4 @@
-// Create A Web Server For Comments
+// Create web server
 
 const express = require('express');
 const bodyParser = require('body-parser');
